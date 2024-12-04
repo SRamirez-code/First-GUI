@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7af380e7-76db-4b9b-9c15-5ee72586cd62" name="Changes" comment="This is my first GUI." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SRamirez-code&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SRamirez-code/First-GUI.git&quot;,
+    &quot;accountId&quot;: &quot;7b8429a5-6ab9-42da-82b5-a8b60c6e9410&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pjLAQCwTk10x6trdgIhYKte9v8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7af380e7-76db-4b9b-9c15-5ee72586cd62" name="Changes" comment="" />
+      <created>1727896278347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727896278347</updated>
+      <workItem from="1727896279368" duration="440000" />
+      <workItem from="1730211931321" duration="149000" />
+      <workItem from="1730692852925" duration="112000" />
+      <workItem from="1731130753541" duration="69000" />
+      <workItem from="1731269309349" duration="548000" />
+      <workItem from="1732780418695" duration="108000" />
+      <workItem from="1733115035236" duration="456000" />
+      <workItem from="1733115503216" duration="27000" />
+      <workItem from="1733115568075" duration="515000" />
+      <workItem from="1733274395834" duration="735000" />
+      <workItem from="1733275294480" duration="237000" />
+      <workItem from="1733275605507" duration="691000" />
+      <workItem from="1733280611669" duration="681000" />
+      <workItem from="1733281338404" duration="52000" />
+      <workItem from="1733281434450" duration="221000" />
+      <workItem from="1733281690451" duration="841000" />
+      <workItem from="1733285840135" duration="746000" />
+      <workItem from="1733286805277" duration="239000" />
+      <workItem from="1733327794770" duration="748000" />
+      <workItem from="1733328553760" duration="564000" />
+      <workItem from="1733329186261" duration="1129000" />
+      <workItem from="1733330489830" duration="405000" />
+      <workItem from="1733331319812" duration="140000" />
+      <workItem from="1733331748123" duration="147000" />
+      <workItem from="1733332327640" duration="127000" />
+      <workItem from="1733332678087" duration="173000" />
+      <workItem from="1733334880814" duration="6000" />
+      <workItem from="1733334923961" duration="327000" />
+      <workItem from="1733335718063" duration="41000" />
+      <workItem from="1733335833008" duration="32000" />
+      <workItem from="1733335867915" duration="1552000" />
+      <workItem from="1733338812702" duration="289000" />
+    </task>
+    <task id="LOCAL-00001" summary="This is the gui">
+      <option name="closed" value="true" />
+      <created>1733335655733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733335655733</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is my first GUI.">
+      <option name="closed" value="true" />
+      <created>1733336637336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733336637337</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="b75f9c85-12ef-4c7c-be99-f3c7fea01a36" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="b75f9c85-12ef-4c7c-be99-f3c7fea01a36">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is the gui" />
+    <MESSAGE value="This is my first GUI." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my first GUI." />
+  </component>
+</project>
