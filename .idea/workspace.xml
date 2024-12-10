@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7af380e7-76db-4b9b-9c15-5ee72586cd62" name="Changes" comment="This is my first GUI." />
+    <list default="true" id="7af380e7-76db-4b9b-9c15-5ee72586cd62" name="Changes" comment="This is my first GUI.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
     &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -107,6 +109,12 @@
       <workItem from="1733335833008" duration="32000" />
       <workItem from="1733335867915" duration="1552000" />
       <workItem from="1733338812702" duration="289000" />
+      <workItem from="1733339992424" duration="13000" />
+      <workItem from="1733359229374" duration="605000" />
+      <workItem from="1733410675259" duration="4000" />
+      <workItem from="1733411148752" duration="70000" />
+      <workItem from="1733414736761" duration="9000" />
+      <workItem from="1733417240453" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="This is the gui">
       <option name="closed" value="true" />
